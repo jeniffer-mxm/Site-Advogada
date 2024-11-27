@@ -1,7 +1,7 @@
 
-# Landing Page de uma Advogada
+# Landing Page De uma Advogada
 
-Bem-vindo a **Landing Page De uma Advogada**, um projeto que desenvolvi para fins de estudos e  aprimoramento na área. 
+Bem-vindo ao **Landing Page De uma Advogada**, um projeto que desenvolvi para fins de estudos e  aprimoramento na área. 
 
 ## 🚀 Funcionalidades
 
@@ -19,12 +19,12 @@ Planejo melhorar e atualizar o template com novos recursos e seções. Algumas d
 
 ## 👨‍🏫 Sobre Mim
 
-Eu sou **Jeniffer Maximo**, estudante de Analise e Desenolvimento de Sistemas, prentendo me especializar em desenvolvimento web Frontend.
+Eu sou **Jeniffer Maximo**, estudante de Analise e Desenolvimento de Sisteemas, prentendo me especialisar em desenvolvimento web Frontend.
 
 
 ## 🎁 Como Contribuir
 
 Se você tem sugestões de melhorias ou encontrou algum bug, fique à vontade para contribuir com o projeto. Basta abrir uma issue ou fazer um pull request.
 
-[site jessica-video.webm](https://github.com/user-attachments/assets/671d74f1-05d1-43e5-a194-2234cbb31c3d)
 
+# Site-advogada
