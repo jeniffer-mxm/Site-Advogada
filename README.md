@@ -1,5 +1,5 @@
 
-# Landing Page De uma Advogada
+# Landing Page de uma Advogada
 
 Bem-vindo ao **Landing Page De uma Advogada**, um projeto que desenvolvi para fins de estudos e  aprimoramento na área. 
 
