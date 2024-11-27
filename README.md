@@ -19,7 +19,7 @@ Planejo melhorar e atualizar o template com novos recursos e seções. Algumas d
 
 ## 👨‍🏫 Sobre Mim
 
-Eu sou **Jeniffer Maximo**, estudante de Analise e Desenolvimento de Sisteemas, prentendo me especialisar em desenvolvimento web Frontend.
+Eu sou **Jeniffer Maximo**, estudante de Analise e Desenolvimento de Sistemas, prentendo me especializar em desenvolvimento web Frontend.
 
 
 ## 🎁 Como Contribuir
