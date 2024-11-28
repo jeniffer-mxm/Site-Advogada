@@ -26,6 +26,7 @@ Eu sou **Jeniffer Maximo**, estudante de Analise e Desenolvimento de Sistemas, p
 
 Se você tem sugestões de melhorias ou encontrou algum bug, fique à vontade para contribuir com o projeto. Basta abrir uma issue ou fazer um pull request.
 
+## Visite o site: https://jeniffer-mxm.github.io/Site-adv/
 
 [site jessica-video.webm](https://github.com/user-attachments/assets/03cf596e-3cb8-4795-a900-7d3383df15e3)
 
